@@ -3,7 +3,7 @@
 <!--ya complete el texto de Artefactos de Scrum)-->
 
 <!--cree los issues para que se los asignen -->
-# **Artefactos de Scrum**
+# [**Artefactos de Scrum**](https://youtu.be/ZLYnmI8dbVs)
 
 En el marco de trabajo **Scrum**, denominamos **Artefacto** a aquellos elementos físicos que se producen como resultado de la aplicación de _Scrum_. Los _Artefactos_ son todos los elementos que garantizan la transparencia y el registro de la información, parte fundamental del proceso de _Scrum_.
 Los tres principales artefactos o herramientas _Scrum_ son: el **_Product Backlog_**, **_Stprint Backlog_** y el **_Incremento_**.
