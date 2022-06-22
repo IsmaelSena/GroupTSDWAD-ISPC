@@ -59,7 +59,9 @@ en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bi
 debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
 Planificación del Sprint
 (Sprint Planning)
+
 ![image](https://user-images.githubusercontent.com/106894439/174916091-be3440d0-3642-4231-8c9d-9cec8155b0b8.png)
+
 ![image](https://user-images.githubusercontent.com/106894439/174916153-a673f8c2-4a52-4716-aad7-12d0857e65b2.png)
 
 #No son reuniones de reporte de estado al scrum master
@@ -67,6 +69,7 @@ Planificación del Sprint
 
 ![image](https://user-images.githubusercontent.com/106894439/174916903-b97fb1f6-b396-4cca-a56f-cd260ed9f617.png)
 [](![image](https://user-images.githubusercontent.com/106894439/174916939-aa56e534-6df8-4523-b317-269af7dc8e68.png))
+
 
 #A continuación una guía rápida y práctica de las 4 ceremonias de la metodología scrum:
 https://thedigitalprojectmanager.com/es/ceremonias-scrum-simplificadas/
