@@ -2,7 +2,7 @@
 
 Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor.
 
-CARACTERISTICAS
+CARACTERISTICAS 
 
 - Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor.
 - Utiliza procesos interactivos/incrementales.
