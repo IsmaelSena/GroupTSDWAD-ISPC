@@ -2,7 +2,7 @@
 
 Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor.
 
-CARACTERISTICAS
+CARACTERISTICAS 
 
 - Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor.
 - Utiliza procesos interactivos/incrementales.
@@ -59,7 +59,7 @@ El equipo de desarrollo se encargará de crear un incremento terminado a partir 
 
 Es importante que en la metodología Scrum todos los miembros del equipo de desarrollo conozcan su rol, siendo solo uno común para todos, independientemente del número de miembros que tenga el equipo y cuales sean sus roles internos. Cómo el equipo de desarrollo decida gestionarse internamente es su propia responsabilidad y tendrá que rendir cuentas por ello como uno solo; hay que evitar intervenir en sus dinámicas.
 
-## **Ceremonias de Scrum**
+## **Ceremonias de Scrum** 
 
 Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son, por así decirlo, reuniones que tienen lugar en las iteraciones o Sprints contemplados dentro de la metodología Scrum, y son una parte importante del progreso de cualquier proyecto.
 Estas ceremonias brindan un marco en el que los equipos pueden trabajar de manera más estructurada para que así se alcancen los resultados esperados. Sin embargo, si no se gestionan de la manera correcta, terminan abrumando y disminuyendo el valor que originalmente deberían proporcionar.
